@@ -6,6 +6,9 @@
 
 개인 저장소일 때: git@github.com:wa758/flight_control_2026.git
 
+폴더 진입: `cd flight_control_2026`
+
+
  새 브랜치 만들기 
 `git branch name`
 
