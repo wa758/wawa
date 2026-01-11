@@ -25,7 +25,7 @@
 `git commit -m "Add: welcome file to vtol branch"`
 
  4. 깃허브 서버로 발사!
-`git push origin vtol`
+`git push origin name`
 
 Pull의 핵심 개념
 
