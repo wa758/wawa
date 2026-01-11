@@ -2,6 +2,10 @@
 
 `git clone git@github.com:wa758/wawa.git`
 
+조직 저장소일 때: git@github.com:DGU_DAVI/flight_control_2026.git
+
+개인 저장소일 때: git@github.com:wa758/flight_control_2026.git
+
  새 브랜치 만들기 
 `git branch name`
 
